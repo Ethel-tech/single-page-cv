@@ -1,5 +1,5 @@
 # single-page-cv
-This project was built primarily with HTML and is deployed to Netlify. The project attempts to implement the following checklist correctly.
+This project was built primarily with HTML and is deployed to Netlify(link below). The project attempts to implement the following checklist correctly.
 
 Semantically correct HTML structure.
 
@@ -10,3 +10,5 @@ SEO meta tags in the head section.
 OG tags for better social media sharing.
 
 A favicon is linked in the head section.
+
+URL - https://boma-singe-page-cv.netlify.app/
