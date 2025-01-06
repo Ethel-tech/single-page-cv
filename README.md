@@ -11,4 +11,5 @@ OG tags for better social media sharing.
 
 A favicon is linked in the head section.
 
-URL - https://boma-singe-page-cv.netlify.app/
+Netlify URL - https://boma-singe-page-cv.netlify.app/
+Roadmap Project URL - https://roadmap.sh/projects/single-page-cv
